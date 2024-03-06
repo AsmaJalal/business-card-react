@@ -1,3 +1,11 @@
+# Business Card React App 
+
+## Screen shot
+![App Screenshot](https://raw.githubusercontent.com/AsmaJalal/online-shopping-app/master/rsc/images/ss3.jpg)
+
+## Live demo
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
