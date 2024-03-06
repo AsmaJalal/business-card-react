@@ -1,10 +1,11 @@
 # Business Card React App 
 
 ## Screen shot
-![App Screenshot](https://raw.githubusercontent.com/AsmaJalal/online-shopping-app/master/rsc/images/ss3.jpg)
+![App Screenshot](https://github.com/AsmaJalal/business-card-react/blob/master/src/images/2.png)
 
 ## Live demo
-
+Business Card React App Demo
+(https://business-card-react-steel.vercel.app/)
 
 # Getting Started with Create React App
 
